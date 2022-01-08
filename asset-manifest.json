@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-privet-rout-App/static/css/main.e6c13ad2.css",
+    "main.js": "/React-privet-rout-App/static/js/main.e94cb7a0.js",
+    "static/js/787.bf699956.chunk.js": "/React-privet-rout-App/static/js/787.bf699956.chunk.js",
+    "index.html": "/React-privet-rout-App/index.html",
+    "main.e6c13ad2.css.map": "/React-privet-rout-App/static/css/main.e6c13ad2.css.map",
+    "main.e94cb7a0.js.map": "/React-privet-rout-App/static/js/main.e94cb7a0.js.map",
+    "787.bf699956.chunk.js.map": "/React-privet-rout-App/static/js/787.bf699956.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e94cb7a0.js"
+  ]
+}
