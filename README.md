@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# This is a privet route App 
+its describe how to route privetly
+<img src="https://github.com/Satya12325/React-privet-rout-App/blob/master/screencapture-satya12325-github-io-dashbord-settings-user-2022-02-05-10_34_52.png?raw=true"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
